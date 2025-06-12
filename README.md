@@ -47,3 +47,4 @@ This repo will grow over time. Here’s what I’ll be uploading:
 
 ---
 
+Added full custom README with goals and repo structure
