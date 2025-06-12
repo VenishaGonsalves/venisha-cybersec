@@ -47,4 +47,16 @@ This repo will grow over time. Here’s what I’ll be uploading:
 
 ---
 
-## 🗂️ Repository Structure
+## 🌟 Goals
+
+- Build strong foundational knowledge
+- Practice hands-on labs and challenges
+- Document everything to track my growth
+- Contribute to the cybersecurity community
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to fork, star ⭐, or message me if you'd like to collaborate or follow my journey!
+
