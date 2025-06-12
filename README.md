@@ -48,12 +48,3 @@ This repo will grow over time. Here’s what I’ll be uploading:
 ---
 
 ## 🗂️ Repository Structure
-venisha-cybersec/
-│
-├── notes/
-├── python-scripts/
-├── ctf-writeups/
-├── tool-practice/
-├── certificates/
-├── resume/
-└── README.md
